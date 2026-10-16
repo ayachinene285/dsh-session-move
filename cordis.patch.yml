@@ -1,0 +1,4 @@
+# dsh-session-move：只插入本插件入口，官方 workspace / session-projection-cache 保持启用。
+- insert:
+    - id: dsh-session-move
+      name: 'dsh-session-move'
