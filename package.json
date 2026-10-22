@@ -1,6 +1,6 @@
 {
   "name": "dsh-session-move",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "侧栏工作区文件夹（分组）与会话移动 · Workspace folders and session move for DeepSeek Harness",
   "type": "module",
   "main": "lib/index.js",
